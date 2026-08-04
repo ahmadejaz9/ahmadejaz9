@@ -73,29 +73,6 @@ I'm a Software Engineer with **4+ years of experience** building scalable web ap
 - Built automated UI tests using Playwright
 - Tested REST APIs using Postman
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Code Reviewer
-- AI-powered code review platform
-- Built with Next.js
-- Claude API integration
-- Supabase Authentication
-
-### 📦 INTELLICO
-- Enterprise import/export system
-- RabbitMQ asynchronous processing
-- Image slideshow uploader
-- Optimized background workflows
-
-### 🌐 COMN Chrome Extension
-- React-based Chrome Extension
-- Playwright automated testing
-- PostgreSQL optimization
-
----
-
 ## 📈 Currently Learning
 
 - AI Agents
@@ -108,10 +85,6 @@ I'm a Software Engineer with **4+ years of experience** building scalable web ap
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 contact.hafizahmad@gmail.com
-
----
-
-> "Clean code, scalable architecture, and continuous learning."
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmad-ejaz-ba715a427/
+- 🌐 Portfolio: https://ahmad-portfolio-eosin-two.vercel.app/
+- 📧 contact.hafizahmad@gmail.com"
